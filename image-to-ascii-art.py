@@ -3,22 +3,22 @@ import numpy as np
 import sys
 
 input_file = sys.argv[1]
-output_file = sys.argv[2]
-width = int(sys.argv[3])
-height = int(sys.argv[4])
+width = int(sys.argv[2])
+height = int(sys.argv[3])
+output_file = sys.argv[4]
 def color_to_ascii(color):#different color options
-    if sys.argv[5]:
-        if sys.argv[5] == 0:
+    try:
+        if int(sys.argv[5]) == 0:
             c = np.linalg.norm(color)
             return c * (len(pallete)/442)
-        if sys.argv[5] == 1:
+        if int(sys.argv[5]) == 1:
             c = max(color)
             return c * (len(pallete)/256)
-    else:
+    except:
         c = np.linalg.norm(color)
         return c * (len(pallete)/442)        
 
-img = Image.open(input_file)
+img = Image.open(input_file).convert('RGB')
 img = img.resize((width, height), Image.BILINEAR)
 img = np.array(img)
 
