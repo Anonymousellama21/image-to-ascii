@@ -9,7 +9,7 @@ I think color setting 1 generally works better on clipart style things
 
 heres a demo of the mona lisa:
 color setting 0:
-LUYYzXUYXzXUUJJUUUUJUCJUYUUYYUUJJCJJJJJUJJUUUUJC
+```LUYYzXUYXzXUUJJUUUUJUCJUYUUYYUUJJCJJJJJUJJUUUUJC
 CYXXzXYXzXXYUJUUYXYYUUUYYYYXXXXXYUUYXYYUUXYYXYYJ
 JzccczzcczzYUUYYYXzXXXYXXXXzzccczzzzzzzXzcczzzYC
 YcvuuvunuvvzzXzzzcczcvvuuvcczcvuuvccvvccvuvczcXU
@@ -80,10 +80,10 @@ W&&W&&W&WW&8&8%%%%8&8%%%B%BBB%%BBB%8&W8%BB%888W8
 %888&88&&&&&&88%88%%%%%%%%%%%%%%%%%BBBBBBB%BB%BB
 %%888888888888%%8&8%%%%%%%%%%%%%%%BBBBBBBBBBB%B@
 8888888&&&&88%%88&&8888%%%%%%%%%%BBBBBBBBBBBBBB@
-8888888&&&8888888&&88888%%%%%8%%%%%B%BBBBBBBBBB@
+8888888&&&8888888&&88888%%%%%8%%%%%B%BBBBBBBBBB@```
 
 color setting 1:
-Yuxrxxxxrjrnucvvvvccczcvvvcuxnuvcvuvvvvvccvvuuvz
+```Yuxrxxxxrjrnucvvvvccczcvvvcuxnuvcvuvvvvvccvvuuvz
 zrjjfjrftfjrnnnnxrxnnuuxxxxrjfjjrxxrjrrxnrrrrrxv
 uf//ttfttffrxrrrrjffjrrrjjjft///tttttttffttttfru
 xt\||\|((|\tfffft/ttt//\|\t/t\\||\\\\\\/\|\tttfx
@@ -154,4 +154,4 @@ WWWWWM***oobQvj}~!II:l;!xb*bbok0Opb*&&&88888%%%%
 &&&WWWWWWWMMMW&&W&&&88888&&888888888%%%%8%888&8%
 &&WWWWWWWWWWWW&&WWW&88&888888888888%%%%%%%8%%8%B
 &&&WWWWMMMMWW&&WWMM&&&&&88888&88888%8%%%%%%8%%%%
-&&WWWWWMMMWW&&&WMM#WWW&&&&&&&W&&888888888%%88%%%
+&&WWWWWMMMWW&&&WMM#WWW&&&&&&&W&&888888888%%88%%%```
